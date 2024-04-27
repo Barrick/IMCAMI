@@ -6,8 +6,8 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <link rel="stylesheet" type="text/css" href="/IMCAMI/index/Login/styleG.css">
-  <link rel="shortcut icon" href="/IMCAMI/index/images/IMCAMI3.png" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="/index/Login/styleG.css">
+  <link rel="shortcut icon" href="/index/images/IMCAMI3.png" type="image/x-icon">
 
   <title>Agregar Gastos</title>
 </head>
@@ -39,7 +39,7 @@
       <div class="input-group">
         <button name="register" class="btn">Registrar</button>
       </div>
-      <p><a href="/IMCAMI/index/Login/menu/indexAdmin.php">Regresar a la pagina pricipal</a>.</p>
+      <p><a href="/index/Login/menu/indexAdmin.php">Regresar a la pagina pricipal</a>.</p>
     </form>
   </div>
 </body>
