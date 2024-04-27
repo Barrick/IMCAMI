@@ -4,10 +4,10 @@
         <title>Ver Gastos</title>
    </head>
 
-       <link rel="stylesheet" href="css/estilo_tablas.css">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/estilo_tablas.css">
     <link rel="shortcut icon" href="img/logoImcami.png" type="image/x-icon">
     <link rel="shortcut icon" href="/IMCAMI/index/images/IMCAMI3.png" type="image/x-icon">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- links para exportar a excel -->
     <script src="https://unpkg.com/xlsx@0.16.9/dist/xlsx.full.min.js"></script>
     <script src="https://unpkg.com/file-saverjs@latest/FileSaver.min.js"></script>
@@ -21,8 +21,8 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <link href="assets/css/material.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/home.css">
-    <link rel="stylesheet" href="./assets/css/loader.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/home.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/loader.css">
 
 
 
@@ -32,7 +32,7 @@
   body {
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/IMCAMI/index/Login/.png);
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/index/Login/FondProy.png);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -47,7 +47,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-          <a href="/IMCAMI/index/Login/menu/indexAdmin.php">Regresar al menu de Administrador</a>
+          <a href="/index/Login/menu/indexAdmin.php">Regresar al menu de Administrador</a>
         </div>
         <div class="card-body">
             <button id="btnExportar" class="btn btn-success">
