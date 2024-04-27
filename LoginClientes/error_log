@@ -1,0 +1,14 @@
+[22-Jun-2023 05:41:56 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:41:56 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:42:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:42:31 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:42:52 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:42:52 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:14 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:14 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:27 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:27 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:59 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[22-Jun-2023 05:43:59 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[01-Jul-2023 08:47:40 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3
+[01-Jul-2023 08:47:40 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nvguzhq0hoby/public_html/index/LoginClientes/index.php on line 3

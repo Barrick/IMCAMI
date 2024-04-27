@@ -1,0 +1,50 @@
+<?php 
+
+session_start();
+
+if (!isset($_SESSION['username'])) {
+    header("Location: index.php");
+}
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Menu Administrador</title>
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<header>
+		
+    
+   
+		<nav class="navegacion">
+			<ul class="menu">
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Registrar</a>
+					<ul class="submenu">
+						<li><a href="#">Administrador</a></li>
+						<li><a href="#">Personal</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Asistencias</a>
+					<ul class="submenu">
+						<li><a href="#">Ver Asistencias</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Proyectos</a>
+					<ul class="submenu">
+						<li><a href="#">Agregar Proyecto</a></li>
+						<li><a href="#">Consultar Proyecto</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Gastos</a></li>
+			</ul>
+		</nav>
+		<section class="texto-header">
+         <?php echo "<h1>Bienvenido " . $_SESSION['username'] . "</h1>"; ?>
+         <h2>Pagina de Administrador</h2>
+	</header>
+</body>
+</html>
