@@ -47,8 +47,8 @@ if (!isset($_SESSION['username'])) {
 				</li>
 				<li><a href="">Gastos</a>
 					<ul class="submenu">
-						<li><a href="/IMCAMI/index/Login/Gastos/control_gastos.php">Agregar Gastos</a></li>
-						<li><a href="/IMCAMI/index/Login/Gastos/ver_gastos.php">Ver Gastos</a></li>
+						<li><a href="/index/Login/Gastos/control_gastos.php">Agregar Gastos</a></li>
+						<li><a href="/index/Login/Gastos/ver_gastos.php">Ver Gastos</a></li>
 					</ul>
 				</li>
 				<li><a href="/index/Login/logout.php">Cerrar Sesion</a></li>
